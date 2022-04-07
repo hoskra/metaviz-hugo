@@ -1,0 +1,9 @@
+/* Place custom css here. */
+.thumbnail {
+  width: 200px;
+}
+
+.item {
+  display :flex;
+  justify-content: space-between;
+}
